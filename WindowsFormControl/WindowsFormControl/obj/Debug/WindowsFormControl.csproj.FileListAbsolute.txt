@@ -1,0 +1,9 @@
+C:\Users\korisnik\source\repos\WindowsFormControl\WindowsFormControl\bin\Debug\WindowsFormControl.exe.config
+C:\Users\korisnik\source\repos\WindowsFormControl\WindowsFormControl\bin\Debug\WindowsFormControl.exe
+C:\Users\korisnik\source\repos\WindowsFormControl\WindowsFormControl\bin\Debug\WindowsFormControl.pdb
+C:\Users\korisnik\source\repos\WindowsFormControl\WindowsFormControl\obj\Debug\WindowsFormControl.Form1.resources
+C:\Users\korisnik\source\repos\WindowsFormControl\WindowsFormControl\obj\Debug\WindowsFormControl.Properties.Resources.resources
+C:\Users\korisnik\source\repos\WindowsFormControl\WindowsFormControl\obj\Debug\WindowsFormControl.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\WindowsFormControl\WindowsFormControl\obj\Debug\WindowsFormControl.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\WindowsFormControl\WindowsFormControl\obj\Debug\WindowsFormControl.exe
+C:\Users\korisnik\source\repos\WindowsFormControl\WindowsFormControl\obj\Debug\WindowsFormControl.pdb
